@@ -40,6 +40,7 @@ public class Test {
       System.out.println("文件内容" + doc.get("fileContent"));
       System.out.println("文件路径" + doc.get("filePaht"));
       System.out.println("文件大小" + doc.get("fileSize"));
+      System.out.println(11);
     }
   }
 
